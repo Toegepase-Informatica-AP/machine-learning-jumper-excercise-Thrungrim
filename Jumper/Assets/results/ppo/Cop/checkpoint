@@ -1,0 +1,3 @@
+model_checkpoint_path: "Cop-500036.ckpt"
+all_model_checkpoint_paths: "Cop-499972.ckpt"
+all_model_checkpoint_paths: "Cop-500036.ckpt"

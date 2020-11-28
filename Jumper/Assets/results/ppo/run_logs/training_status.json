@@ -1,0 +1,29 @@
+{
+    "Cop": {
+        "checkpoints": [
+            {
+                "steps": 499972,
+                "file_path": "results\\ppo\\Cop\\Cop-499972.nn",
+                "reward": -0.527272720228542,
+                "creation_time": 1606591265.579552
+            },
+            {
+                "steps": 500036,
+                "file_path": "results\\ppo\\Cop\\Cop-500036.nn",
+                "reward": -0.527272720228542,
+                "creation_time": 1606591266.0034199
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500036,
+            "file_path": "results\\ppo\\Cop.nn",
+            "reward": -0.527272720228542,
+            "creation_time": 1606591266.0034199
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.1",
+        "tensorflow_version": "2.3.1"
+    }
+}
